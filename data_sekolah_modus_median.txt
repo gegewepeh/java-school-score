@@ -1,6 +1,6 @@
 Berikut Hasil Pengolahan Nilai:
 
 Berikut hasil sebaran data nilai
-Mean: 5.8
-Median: 6.0
-Modus: 6
+Mean: 8.32
+Median: 8.0
+Modus: 7

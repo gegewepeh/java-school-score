@@ -11,7 +11,7 @@ public class Main {
     }
 
     private void menuLoop(boolean isRetry) {
-        String filePath = "../";
+        String filePath = "./";
         String file = "data_sekolah.csv";
         if (!isRetry) {
             printMainMenu(filePath, file);
